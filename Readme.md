@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MyGridControl.cs](./CS/GridControlWithFindPanel/Custom GridView/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/GridControlWithFindPanel/Custom GridView/MyGridControl.vb))
+* [MyGridView.cs](./CS/GridControlWithFindPanel/Custom GridView/MyGridView.cs) (VB: [MyGridViewInfoRegistrator.vb](./VB/GridControlWithFindPanel/Custom GridView/MyGridViewInfoRegistrator.vb))
+* [MyGridViewInfo.cs](./CS/GridControlWithFindPanel/Custom GridView/MyGridViewInfo.cs) (VB: [MyGridViewInfoRegistrator.vb](./VB/GridControlWithFindPanel/Custom GridView/MyGridViewInfoRegistrator.vb))
+* [MyGridViewInfoRegistrator.cs](./CS/GridControlWithFindPanel/Custom GridView/MyGridViewInfoRegistrator.cs) (VB: [MyGridViewInfoRegistrator.vb](./VB/GridControlWithFindPanel/Custom GridView/MyGridViewInfoRegistrator.vb))
+* [Form1.cs](./CS/GridControlWithFindPanel/Form1.cs) (VB: [Form1.vb](./VB/GridControlWithFindPanel/Form1.vb))
+* [Program.cs](./CS/GridControlWithFindPanel/Program.cs) (VB: [Program.vb](./VB/GridControlWithFindPanel/Program.vb))
+<!-- default file list end -->
 # How to show Find Panel at bottom
 
 
